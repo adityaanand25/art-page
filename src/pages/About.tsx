@@ -89,6 +89,11 @@ const team = [
     name: "Gajendra Sharma",
     role: "Vice President",
     image: "gajju bhaiya.jpg"
+  },
+  {
+    name: "Aditya Srivastava",
+    role: "General Secretary",
+    image: "aditya me .jpg"
   }
 ];
 
