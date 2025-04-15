@@ -1,5 +1,5 @@
 import React from 'react';
-
+import PreviousEvents from '../components/PreviousEvents';
 
 function About() {
   return (
@@ -70,6 +70,7 @@ function About() {
           </div>
         </div>
       </div>
+      <PreviousEvents />
     </div>
   );
 }
