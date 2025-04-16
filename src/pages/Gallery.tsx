@@ -78,9 +78,9 @@ const artworks = [
     id: 2,
     title: "Mountain Serenity",
     artist: "James Chen",
-    price: "$2,200",
+    price: "800 (contact club)",
     category: "landscape",
-    image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80"
+    image: "landscape1.jpg"
   },
   {
     id: 3,
@@ -102,9 +102,9 @@ const artworks = [
     id: 5,
     title: "Desert Dreams",
     artist: "Anna Martinez",
-    price: "$1,900",
+    price: "900 (contact club)",
     category: "landscape",
-    image: "https://images.unsplash.com/photo-1682686580391-615b1f28e5ee?auto=format&fit=crop&q=80"
+    image: "landscape2.jpg"
   },
   {
     id: 6,
